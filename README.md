@@ -16,7 +16,7 @@
 
 ![Location](https://img.shields.io/badge/Chennai%2C%20India-0D1117?style=for-the-badge&logo=googlemaps&logoColor=FF4757&labelColor=0D1117&color=30363D)
 ![Class](https://img.shields.io/badge/B.E.%20CSE%20%C2%B7%20Class%20of%202028-0D1117?style=for-the-badge&logo=graduationcap&logoColor=FF4757&labelColor=0D1117&color=30363D)
-![German](https://img.shields.io/badge/German-A1%20%E2%86%92%20A2-0D1117?style=for-the-badge&logo=googletranslate&logoColor=FF4757&labelColor=0D1117&color=30363D)
+![German](https://img.shields.io/badge/German-Learning%20A1-0D1117?style=for-the-badge&logo=googletranslate&logoColor=FF4757&labelColor=0D1117&color=30363D)
 
 </div>
 
@@ -91,7 +91,7 @@ Right now I'm sharpening my algorithmic problem-solving and preparing for **inte
 | | |
 |---|---|
 | 🧠 **Learning** | Advanced Data Structures &amp; Algorithms |
-| 🇩🇪 **Language** | German, working from A1 towards A2 |
+| 🇩🇪 **Language** | German, working toward A1 |
 | 🤖 **Exploring** | Foundational robotics systems |
 | 🎯 **Aiming for** | Graduate studies in humanoid &amp; medical robotics |
 
@@ -104,7 +104,6 @@ Right now I'm sharpening my algorithmic problem-solving and preparing for **inte
 - 🖥️ **IBM Z Datathon**, IBM LinuxONE Community Cloud
 - 🚦 **Road Safety Hackathon 2026**
 - 🤖 **UiPath RPA Developer**, Academic Training
-- 🇩🇪 **German A1 Certified**
 - 🎓 **B.E. Computer Science and Engineering**, Saveetha Engineering College (2024 – 2028)
 
 <br/>
